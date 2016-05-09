@@ -1,6 +1,8 @@
 angular-materialize
 ===================
 
+[![Join the chat at https://gitter.im/timbosymfony/angular-materialize](https://badges.gitter.im/timbosymfony/angular-materialize.svg)](https://gitter.im/timbosymfony/angular-materialize?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **angular-materialize** in action http://krescruz.github.io/angular-materialize/
 
 This library is a set of AngularJS directives which make it possible to use features from [Materialize](http://materializecss.com/) with AngularJS.
